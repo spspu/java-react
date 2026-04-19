@@ -1,1 +1,1 @@
-# to see her frontend Part: [java-spring](https://github.com/spspu/java-react.git)
+# to see her frontend Part: [react](https://github.com/spspu/react-java.git)
